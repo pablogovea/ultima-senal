@@ -2,6 +2,7 @@
   "name": "ultima-senal",
   "private": true,
   "type": "module",
+  "workspaces": ["apps/*", "packages/*"],
   "scripts": { "test": "node --test tests/etapa1.test.ts" },
   "engines": { "node": ">=22.18" }
 }
