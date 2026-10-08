@@ -1,0 +1,7 @@
+{
+  "name": "ultima-senal",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/etapa1.test.ts" },
+  "engines": { "node": ">=22.18" }
+}
